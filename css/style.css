@@ -29,19 +29,19 @@ body {
     font-size: 36px;
 }
 
+.titulo-destaque {
+    color: #22D4FD;
+}
+
 .apresentacao__conteudo__texto {
     color: #F6F6F6;
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
 }
 
-.titulo-destaque {
-    color: #22D4FD;
-}
-
-a {
-    width: 250px;
-    background-color: #22D4FD;
+.apresentacao__links {
+    display: flex;
+    justify-content: space-between;
 }
 
 img {
