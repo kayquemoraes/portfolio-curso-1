@@ -98,7 +98,8 @@ body {
 }
 
 .imagem__principal {
-    height: 482px;
+    height: 550px;
+    border: 8px solid #22D4FD;
     border-radius: 10vh;
 }
 
